@@ -2,7 +2,7 @@
 Tools and exercises for the "robotics2" course
 
 ## Parametrization 
-Parametrization.m is a script which estimates uknown parameters (mass, inertia, arm lengths..) of an RPR manipulator. Just launch it on MATLAB and have fun <br/>
+Parametrization.m is a script which estimates uknown parameters (mass, inertia, arm lengths..) of an RPR manipulator. Moreover, it implements an adaptive trajectory controller. Just launch it on MATLAB and have fun! <br/>
 ## The process
 I follow the Lagrangian formulation of the robot dynamics, with inertia matrix M and Coriolis terms c. 
 
